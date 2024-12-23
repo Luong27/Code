@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|c:\\users\\admin\\source\\repos\\game\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\manageproduct form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:manageproduct form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:managecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\manageemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:manageemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:warehousemanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\manageproduct form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:manageproduct form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\manageemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:manageemployee form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|C:\\Users\\Admin\\source\\repos\\Game\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB387763-1D2B-49C2-8805-778EBB2C918D}|Game.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\OrderHistory.cs",
+              "RelativeToolTip": "OrderHistory.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAswCcAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:10:56.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "OrderHistory.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:06:41.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "ManageCustomer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageCustomer.cs",
+              "RelativeToolTip": "ManageCustomer.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAYwAABAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:52:51.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageCustomer.cs",
+              "RelativeDocumentMoniker": "ManageCustomer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageCustomer.cs [Design]",
+              "RelativeToolTip": "ManageCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:37:03.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageProduct form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageProduct form.cs",
+              "RelativeDocumentMoniker": "ManageProduct form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageProduct form.cs",
+              "RelativeToolTip": "ManageProduct form.cs",
+              "ViewState": "AQIAAJIBAAAAAAAAAAAAACkBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:58:33.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageProduct form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageProduct form.cs",
+              "RelativeDocumentMoniker": "ManageProduct form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageProduct form.cs [Design]",
+              "RelativeToolTip": "ManageProduct form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:40:08.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageEmployee Form.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageEmployee Form.cs",
+              "RelativeDocumentMoniker": "ManageEmployee Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageEmployee Form.cs",
+              "RelativeToolTip": "ManageEmployee Form.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAcwCcBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:13:59.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageEmployee Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\ManageEmployee Form.cs",
+              "RelativeDocumentMoniker": "ManageEmployee Form.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\ManageEmployee Form.cs [Design]",
+              "RelativeToolTip": "ManageEmployee Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:10:20.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:38:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SaleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\SaleForm.cs",
+              "RelativeToolTip": "SaleForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:32:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\SaleForm.cs",
+              "RelativeDocumentMoniker": "SaleForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\SaleForm.cs [Design]",
+              "RelativeToolTip": "SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:31:33.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\WarehouseManagerForm.cs",
+              "RelativeToolTip": "WarehouseManagerForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:32:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WarehouseManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\WarehouseManagerForm.cs",
+              "RelativeDocumentMoniker": "WarehouseManagerForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\WarehouseManagerForm.cs [Design]",
+              "RelativeToolTip": "WarehouseManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:29:46.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:28:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:27:45.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwCcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:23:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:18:35.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Game\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Game\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vwwAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:01:35.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
